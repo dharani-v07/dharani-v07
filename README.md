@@ -78,7 +78,7 @@ I'm a **BCA student at Dr. N.G.P. Arts and Science College** with a passion for 
 > **Real-Time Contactless Attendance Management System** (2026)
 > Lead Author · IJSRMS, Vol. 12, Issue 2
 > Using Haar Cascade & LBPH algorithms for automated biometric tracking on low-power devices.
-> 📎 [DOI: 10.26438/ijsrms/v12i2.19](https://doi.org/10.26438/ijsrms/v12i2.19)
+> 📎 DOI: [10.26438/ijsrms/v12i2.19](https://doi.org/10.26438/ijsrms/v12i2.19)
 
 ---
 
